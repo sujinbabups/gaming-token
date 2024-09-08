@@ -1,6 +1,6 @@
 # gaming-token
 
-**verified address**  
+**verified address**  :
 
 ## Use case
 
