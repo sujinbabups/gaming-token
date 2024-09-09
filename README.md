@@ -1,6 +1,6 @@
 # gaming-token
 
-**verified address**  :
+**verified address**  :  https://sepolia.etherscan.io/verifyContract-solc-multiple?a=0x3510BC2A661Fe61A56Ed4c244FFC2C86229E781D&c=v0.8.20%2bcommit.a1b79de6&lictype=3
 
 ## Use case
 
